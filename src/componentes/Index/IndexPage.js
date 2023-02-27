@@ -5,11 +5,10 @@ import './index.css';
 
 //Imagenes
 import imagenPortada from '../../imagenes/imagenportada.jpg';
-import imagenDosAutos from '../../imagenes/imagen-dos-autos.png';
 import imagenCorolla from '../../imagenes/corolla-presentacion.png';
 import Footer from '../Footer/Footer';
 
-function Index(){
+function IndexPage(){
   return(
     <div className='contenedor-principal-index'>
         <div className='nav-bar'>
@@ -108,4 +107,4 @@ function Index(){
     )
 }
 
-export default Index;
+export default IndexPage;
