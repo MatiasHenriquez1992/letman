@@ -1,0 +1,215 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.contenedor-principal-index{
+  width: 100%;
+}
+
+.nombre-empresa{
+  position: absolute;
+  left: 15px;
+  color: #fff;
+}
+
+.texto-alquileres{
+  position: absolute;
+  top: 25px;
+  left: 16px;
+  color: #fff;
+}
+
+.contenedor-navbar{
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0px;
+}
+
+.contenedor-navbar a{
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin: 0px 10px;
+  text-decoration: none;
+  color: #fff;
+  text-shadow: 1px 1px 10px #000;
+}
+
+.contenedor-navbar a:hover{
+  transition: .2s;
+  transform: scale(1.2);
+}
+
+@media screen and (max-width:540px){
+  .nav-bar{
+    background-color: rgb(12, 161, 12);
+  }
+
+  .contenedor-navbar{
+    background-color: rgb(12, 161, 12);
+    margin: 50px 0px;
+  }
+}
+
+.contenedor-portada-principal{
+  width: 100%;
+}
+
+.imagen-portada{
+  width: 100%;
+  height: 700px;
+  object-fit:cover;
+}
+
+.contenedor-formulario{
+  position: absolute;
+  width: 100%;
+  top: 640px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formulario-vehiculo{
+  background-color: #fff;
+  border-radius: 20px;
+  min-width: 300px;
+  max-width: 650px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  box-shadow: 2px 1px 10px #000;
+}
+
+.lista-ubicacion-formulario{
+  margin: 0px 10px;
+}
+
+.label-formulario{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.input-formulario{
+  margin: 5px 10px;
+}
+
+.contenedor-boton{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.boton-ver-disponibilidad{
+  width:200px;
+  border: none;
+  background-color: rgb(15, 146, 15);
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.boton-ver-disponibilidad:hover{
+  transition: .2s;
+  background-color: rgb(42, 172, 42);
+}
+
+.cards-presentacion{
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card{
+  margin: 5px;
+  padding: 5px;
+  width: 300px;
+  border: 1px solid #818385;
+  border-radius: 10px;
+  color: #818385;
+}
+
+.card:hover{
+  background-color: #619541;
+  color: #fff;
+  transition: .2s;
+}
+
+.contenedor-titulo{
+  display: flex;
+}
+
+.material-symbols-outlined{
+  margin: 6px 5px;
+}
+
+.contenedor-presentacion{
+  margin-top: 50px;
+  padding: 100px 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: #3b4140;
+}
+
+.imagen-corolla{
+  min-width: 300px;
+  max-width: 600px;
+}
+
+.imagen-corolla:hover{
+  margin-right: 35px;
+  transform: scale(1.2);
+  transition: .2s;
+}
+
+.texto-presentacion{
+  text-align: center;
+  max-width: 200px;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 1000;
+  font-size: 60px;
+  padding: 0px 20px;
+  margin-top: 20px;
+}
+
+.texto-precios{
+  max-width: 200px;
+  margin-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 1000;
+  font-size: 35px;
+  padding: 10px;
+  text-align: center;
+  background-color: chocolate;
+  color: #fff;
+  text-shadow: 1px 1px 5px #000;
+  box-shadow: 5px 5px 2px #ea9541;
+  border-radius: 20px;
+}
+.texto-precios:hover{
+  text-shadow: 1px 1px 5px #2e1b1b;
+  box-shadow: 5px 5px 10px #76410d;
+  transition: .3s;
+}
+
+.contenedor-vehiculos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo-nuestros-vehiculos{
+  margin-top: 30px;
+  color: #4f5a59;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
