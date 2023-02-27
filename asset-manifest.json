@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/matiashenriquez1992.github.io/letman/static/css/main.3664793a.css",
-    "main.js": "/matiashenriquez1992.github.io/letman/static/js/main.d8665098.js",
-    "static/media/imagenportada.jpg": "/matiashenriquez1992.github.io/letman/static/media/imagenportada.7cfeda39f1bd7152604c.jpg",
-    "static/media/corolla-presentacion.png": "/matiashenriquez1992.github.io/letman/static/media/corolla-presentacion.fb62ae6fa04d93096fbf.png",
-    "index.html": "/matiashenriquez1992.github.io/letman/index.html",
-    "main.3664793a.css.map": "/matiashenriquez1992.github.io/letman/static/css/main.3664793a.css.map",
-    "main.d8665098.js.map": "/matiashenriquez1992.github.io/letman/static/js/main.d8665098.js.map"
+    "main.css": "/letman/static/css/main.3664793a.css",
+    "main.js": "/letman/static/js/main.b73f37d7.js",
+    "static/media/imagenportada.jpg": "/letman/static/media/imagenportada.7cfeda39f1bd7152604c.jpg",
+    "static/media/corolla-presentacion.png": "/letman/static/media/corolla-presentacion.fb62ae6fa04d93096fbf.png",
+    "index.html": "/letman/index.html",
+    "main.3664793a.css.map": "/letman/static/css/main.3664793a.css.map",
+    "main.b73f37d7.js.map": "/letman/static/js/main.b73f37d7.js.map"
   },
   "entrypoints": [
     "static/css/main.3664793a.css",
-    "static/js/main.d8665098.js"
+    "static/js/main.b73f37d7.js"
   ]
 }
