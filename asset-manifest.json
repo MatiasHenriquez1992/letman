@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/matiashenriquez1992.github.io/letman/static/css/main.3664793a.css",
+    "main.js": "/matiashenriquez1992.github.io/letman/static/js/main.98ac52ed.js",
+    "static/media/imagen-dos-autos.png": "/matiashenriquez1992.github.io/letman/static/media/imagen-dos-autos.7fc42d873b559b9e55cc.png",
+    "static/media/imagenportada.jpg": "/matiashenriquez1992.github.io/letman/static/media/imagenportada.7cfeda39f1bd7152604c.jpg",
+    "static/media/corolla-presentacion.png": "/matiashenriquez1992.github.io/letman/static/media/corolla-presentacion.fb62ae6fa04d93096fbf.png",
+    "index.html": "/matiashenriquez1992.github.io/letman/index.html",
+    "main.3664793a.css.map": "/matiashenriquez1992.github.io/letman/static/css/main.3664793a.css.map",
+    "main.98ac52ed.js.map": "/matiashenriquez1992.github.io/letman/static/js/main.98ac52ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3664793a.css",
+    "static/js/main.98ac52ed.js"
+  ]
+}
