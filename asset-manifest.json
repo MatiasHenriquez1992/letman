@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/letman/static/css/main.3664793a.css",
-    "main.js": "/letman/static/js/main.b73f37d7.js",
-    "static/media/imagenportada.jpg": "/letman/static/media/imagenportada.7cfeda39f1bd7152604c.jpg",
-    "static/media/corolla-presentacion.png": "/letman/static/media/corolla-presentacion.fb62ae6fa04d93096fbf.png",
-    "index.html": "/letman/index.html",
-    "main.3664793a.css.map": "/letman/static/css/main.3664793a.css.map",
-    "main.b73f37d7.js.map": "/letman/static/js/main.b73f37d7.js.map"
+    "main.css": "/static/css/main.98163965.css",
+    "main.js": "/static/js/main.18c6cc92.js",
+    "static/media/imagenportada.jpg": "/static/media/imagenportada.7cfeda39f1bd7152604c.jpg",
+    "static/media/corolla-presentacion.png": "/static/media/corolla-presentacion.fb62ae6fa04d93096fbf.png",
+    "index.html": "/index.html",
+    "main.98163965.css.map": "/static/css/main.98163965.css.map",
+    "main.18c6cc92.js.map": "/static/js/main.18c6cc92.js.map"
   },
   "entrypoints": [
-    "static/css/main.3664793a.css",
-    "static/js/main.b73f37d7.js"
+    "static/css/main.98163965.css",
+    "static/js/main.18c6cc92.js"
   ]
 }
