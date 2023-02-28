@@ -13,7 +13,7 @@ function Footer(){
       <div className='contenedor-ubicacion'>
        <h3>Ubicación</h3>
        <p>Tierra del fuego 1325, Neuquén capital CP 8300</p>
-       <p>Roca 431, Cipolleti, Rio Negro CP 8324</p>
+       <p>Roca 431, Cipolletti, Rio Negro CP 8324</p>
        <p>Arrayanes 1023, Bariloche, Rio Negro CP 8200</p>
        <p>Estacionamiento propio</p>
        <h3>Horario de atención</h3>
@@ -22,7 +22,9 @@ function Footer(){
 
       <div className='contenedor-telefonos'>
         <h3>Comunicate</h3>
-        <p>Tel. 443-2732</p>
+        <p>Tel: (0299) 443-2732. Neuquén Capital</p>
+        <p>Tel: (0299) 478-4352. Cipolletti, Rio Negro</p>
+        <p>Tel: (0294) 428-7268. Bariloche, Rio Negro</p>
         <p>Whatsapp. 0299 155 535 251</p>
         <p>consultas@letman.com.ar</p>
         <p>alquiler@letman.com.ar</p>

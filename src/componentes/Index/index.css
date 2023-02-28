@@ -16,7 +16,7 @@
 .texto-alquileres{
   position: absolute;
   top: 25px;
-  left: 16px;
+  left: 18px;
   color: #fff;
 }
 
@@ -156,7 +156,7 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  background-color: #3b4140;
+  background: linear-gradient(90deg, rgba(49,119,112,1) 0%, rgba(32,51,57,1) 100%);
 }
 
 .imagen-corolla{

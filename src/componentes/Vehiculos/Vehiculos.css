@@ -1,0 +1,76 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.contenedor-principal-carga-vehiculo{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(90deg, rgba(70,34,133,1) 0%, rgba(30,77,88,1) 100%);
+
+}
+
+.titulo-carga-vehiculo{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor-formulario-vehiculos{
+  margin-top: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formulario-carga-vehiculo{
+  box-shadow: 1px 1px 5px #2e3036;
+  padding: 40px 10px;
+  min-width: 250px;
+  max-width:600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.formulario-carga-vehiculo:hover{
+  box-shadow: 1px 1px 5px rgb(114, 114, 231);
+  transition: .3s;
+}
+
+.formulario-carga-vehiculo input{ 
+  width: 300px;
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  font-family: Montserrat;
+  font-weight: 600;
+  border-style:groove;
+    border-width: 2px;
+}
+
+.boton-agregar-vehiculo{
+  margin-top: 20px;
+  border: none;
+  padding: 15px 10px;
+  width: 300px;
+  border-radius: 20px;
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 700;
+  cursor: pointer;
+  background-color: rgb(114, 114, 231);
+  color: #fff;
+}
+
+.boton-agregar-vehiculo:hover{
+  background-color: rgb(132, 181, 246);
+  transition: .2s;
+  box-shadow: 1px 0px 10px #000;
+}
